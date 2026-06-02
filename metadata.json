@@ -1,0 +1,6 @@
+{
+  "name": "Task Yar",
+  "description": "A beautiful, premium task manager application with language selection, dark/light theme, custom categories, drag-and-drop, and offline database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
